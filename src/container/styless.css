@@ -1,0 +1,17 @@
+.buttonStyle {
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 11%;
+}
+.loaderStyle {
+    margin-top: 10%;
+    margin-left: 50%;
+    margin-right: 50%;
+    z-index: 100;
+    position: absolute;
+}
+.avatarImage {
+    height: 100px;
+    border-radius: 50%;
+}
